@@ -62,3 +62,4 @@ _ReSharper*/
 *.testsettings
 obj/*
 bin/*
+encrypted_credentials.json
