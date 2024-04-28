@@ -1,8 +1,6 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 using Newtonsoft.Json;
-using System.IO;
-using System;
 
 
 internal class Program
